@@ -1,1 +1,3 @@
-# IBM_tools_for_data_science
+# IBM Tools For Data Science
+
+Notebook for peer-graded assignment in Week 6
